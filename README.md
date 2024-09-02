@@ -1,1 +1,3 @@
-# Air-Quality
+# Air Pollutants Correlations: Uncovering Relationships
+
+The main motive of using this dataset is to analyze the relationship between the pollutant concentration and how it affects the environment during the day. This dataset grabed my attention as it related to the enviromment domain. It is interesting to see how nature's pattern can be analysed and interpretted numerically. Another reason is that this can later be used to imporve public health as it is directly related to the air we breath. Since this dataset used data gathered from 2004-2005 a similar dataset that has data that is currently relevent can also be used.
